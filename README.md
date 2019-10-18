@@ -1,2 +1,2 @@
 # leetcode
-record of leetcode problem solving
+Record of leetcode problem solving.
